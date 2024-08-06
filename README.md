@@ -1,5 +1,8 @@
 # LLM_Zoomcamp
 
+# 00 - Workshop: Implement a Search Engine
+
+
 # 01 - Intro
 
 # 02 - Retrieval Search
